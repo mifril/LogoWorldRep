@@ -1,6 +1,0 @@
-INIT=ru.nsu.vakhrushev.LogoWorld.commands.Initt
-DRAW=test.ru.nsu.vakhrushev.LogoWorld.test.MyClassWithPrivateConstructor
-MOVE=java.io.BufferedReader
-TELEPORT=ru.nsu.vakhrushev.LogoWorld.commands.TRASH
-WARD=ru.nsu.vakhrushev.LogoWorld.commands.WTF
-
