@@ -1,0 +1,329 @@
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from blbl.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from blbl.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Teleport - Execute command TELEPORT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Teleport - Execute command TELEPORT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Teleport - Execute command TELEPORT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Teleport - Execute command TELEPORT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Main - 
+------------------------------------------
+
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Main - Entering application.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Teleport - Execute command TELEPORT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Main - Execute command EXIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Main - Exiting application.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Main - 
+------------------------------------------
+
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Teleport - Execute command TELEPORT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Init
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Draw
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Ward
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Move
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Factory - Create object of class ru.nsu.vakhrushev.LogoWorld.commands.Teleport
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Init - Execute command INIT.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Move - Execute command MOVE.
+INFO main ru.nsu.vakhrushev.LogoWorld.commands.Teleport - Execute command TELEPORT.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from /test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
+INFO main ru.nsu.vakhrushev.LogoWorld.main.Game - "Reading property from ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt.
