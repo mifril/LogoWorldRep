@@ -18,14 +18,14 @@ import ru.nsu.vakhrushev.LogoWorld.main.Game;
  *  @see ru.nsu.vakhrushev.LogoWorld.commands.Command*/
 public class Init implements Command  {
 
-    static Logger logger = Logger.getLogger(Init.class.getName());
+    private final static Logger logger = Logger.getLogger(Init.class);
 
     /**Execute command INIT.
      * @param arguments Arguments string.
      * @param myGame The Game model, for which we execute command.*/
     public void execute(String arguments, Game myGame)
     {
-        PropertyConfigurator.configure("logconfig.txt");
+//        PropertyConfigurator.configure("logconfig.txt");
         logger.info("Execute command INIT.");
 
         StringBuilder sb = new StringBuilder();

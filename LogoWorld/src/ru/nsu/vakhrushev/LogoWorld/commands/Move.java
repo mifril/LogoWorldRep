@@ -2,6 +2,7 @@ package ru.nsu.vakhrushev.LogoWorld.commands;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import ru.nsu.vakhrushev.LogoWorld.main.Direction;
 import ru.nsu.vakhrushev.LogoWorld.main.Game;
 import ru.nsu.vakhrushev.LogoWorld.main.Mode;
 
@@ -18,18 +19,18 @@ import ru.nsu.vakhrushev.LogoWorld.main.Mode;
  *  @see ru.nsu.vakhrushev.LogoWorld.commands.Command*/
 public class Move implements Command  {
 
-    static Logger logger = Logger.getLogger(Move.class.getName());
+    private final static Logger logger = Logger.getLogger(Move.class);
 
     /**Execute command MOVE.
      * @param arguments Arguments string.
      * @param myGame The Game model, for which we execute command.*/
     public void execute(String arguments, Game myGame)
     {
-        PropertyConfigurator.configure("logconfig.txt");
+ //       PropertyConfigurator.configure("logconfig.txt");
         logger.info("Execute command MOVE.");
 
         StringBuilder sb = new StringBuilder();
-        String direction = null;
+        String strDirection = null;
         char args[] = arguments.toCharArray();
         int tmpPosition = args.length;
         int steps = 0;
@@ -43,10 +44,10 @@ public class Move implements Command  {
             }
             if ((args[i] == ' ') && sb.length() != 0)
             {
-                direction = sb.toString();
-                if (!(direction.equals("L") || direction.equals("R") || direction.equals("U") || direction.equals("D")))
+                strDirection = sb.toString();
+                if (!(strDirection.equals("L") || strDirection.equals("R") || strDirection.equals("U") || strDirection.equals("D")))
                 {
-                    System.out.println("2Incorrect arguments in command MOVE. Incorrect symbol : " + args[i]);
+                    System.out.println("Incorrect arguments in command MOVE. Incorrect symbol : " + args[i]);
                     return;
                 }
                 sb.setLength(0);
@@ -84,7 +85,6 @@ public class Move implements Command  {
         }
         else
         {
-            System.out.println("ST = " + steps);
             for (int i = tmpPosition; i < args.length; i++)
             {
                 if (! (Character.isWhitespace(args[i]) || args[i] == '\n'))
@@ -94,6 +94,28 @@ public class Move implements Command  {
                 }
             }
         }
+
+        Direction direction;
+        switch (strDirection)
+        {
+            case "L":
+                direction = Direction.L;
+                break;
+            case "R":
+                direction = Direction.R;
+                break;
+            case "U":
+                direction = Direction.U;
+                break;
+            case "D":
+                direction = Direction.D;
+                break;
+            default:
+                System.out.println("Incorrect arguments in command MOVE. Incorrect direction");
+                return;
+                
+        }
+        
         myGame.move(steps, direction);
     }
 }

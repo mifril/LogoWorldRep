@@ -19,7 +19,7 @@ import java.io.InputStreamReader;
 /** Main class. Control game */
 public class Main {
 
-    static Logger logger = Logger.getLogger(Main.class.getName());
+    private final static Logger logger = Logger.getLogger(Main.class);
 
     public static void main (String args[])
     {
@@ -36,8 +36,8 @@ public class Main {
                 return;
             }
 
-            Game myGame = new Game(args[0]);
-            Factory factory = new Factory();
+            Game myGame = new Game();
+            Factory factory = new Factory(args[0]);
             Command command;
             String exitCommand = "EXIT";
             int step = 1;
@@ -65,20 +65,23 @@ public class Main {
                     System.out.println("Incorrect command: " + str);
                     continue;
                 }
-                String commandName;
-                commandName = str.substring(0, 4);
-                int lastIndex = 4;
-                if (!commandName.equals("INIT") && !commandName.equals("MOVE") && !commandName.equals("DRAW")
-                        && !commandName.equals("WARD") && str.length() > 8)
+
+                char [] charStr = str.toCharArray();
+                StringBuilder sb = new StringBuilder();
+
+                for (int i = 0; i < charStr.length; i++)
                 {
-                    commandName = str.substring(0, 8);
-                    lastIndex = 8;
-                    if (!commandName.equals("TELEPORT"))
+                    if (Character.isWhitespace(charStr[i]))
                     {
-                        System.out.println("Incorrect command: " + str);
-                        continue;
+                        break;
                     }
+                    sb.append(charStr[i]);
                 }
+
+
+                String commandName = sb.toString();
+
+                System.out.println(commandName + ", length = " + commandName.length());
 
                 if (step == 1 && !commandName.equals("INIT"))
                 {
@@ -87,15 +90,10 @@ public class Main {
                 }
 
                 command = (Command)factory.create(commandName, myGame);
+
                 if (null != command)
                 {
-                    String arguments = null;
-                    if (lastIndex + 1 < str.length())
-                    {
-                        arguments = str.substring(lastIndex + 1, str.length());
-                    }
-
-                    System.out.println("Args : " + arguments);
+                    String arguments = str.substring(commandName.length() + 1, str.length());
                     command.execute(arguments, myGame);
                     if (step == 1 && myGame.getHeight() <= 0 || myGame.getWidth() <= 0)
                     {

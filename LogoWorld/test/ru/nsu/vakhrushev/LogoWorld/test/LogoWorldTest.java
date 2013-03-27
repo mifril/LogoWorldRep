@@ -3,6 +3,7 @@ package ru.nsu.vakhrushev.LogoWorld.test;
 import org.junit.Test;
 import org.testng.Assert;
 import ru.nsu.vakhrushev.LogoWorld.commands.*;
+import ru.nsu.vakhrushev.LogoWorld.main.Direction;
 import ru.nsu.vakhrushev.LogoWorld.main.Factory;
 import ru.nsu.vakhrushev.LogoWorld.main.Game;
 
@@ -30,8 +31,8 @@ public class LogoWorldTest {
         Assert.assertEquals(myGame.getX(), 2);
         Assert.assertEquals(myGame.getY(), 3);
 
-        myGame.move(2, "U");
-        myGame.move(1, "R");
+        myGame.move(2, Direction.U);
+        myGame.move(1, Direction.R);
         Assert.assertEquals(myGame.getX(), 3);
         Assert.assertEquals(myGame.getY(), 1);
 
@@ -56,13 +57,15 @@ public class LogoWorldTest {
         Assert.assertEquals(myGame.getHeight(), 6);
         Assert.assertEquals(myGame.getX(), 1);
         Assert.assertEquals(myGame.getY(), 4);
+
+
     }
 
     @Test
     public void testFactory () throws Exception
     {
         Game myGame = new Game ();
-        Factory factory = new Factory();
+        Factory factory = new Factory("ru/nsu/vakhrushev/LogoWorld/main/config.txt");
         Command [] command = new Command[5];
 
         command[0] = (Command)factory.create("INIT", myGame);
@@ -80,22 +83,22 @@ public class LogoWorldTest {
     @Test (expected = NullPointerException.class)
     public void testFactoryException1 () throws Exception
     {
-        Game myGame = new Game ("/test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt");
+        Factory factory = new Factory ("/test/ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt");
     }
 
     @Test (expected = ClassNotFoundException.class)
     public void testFactoryException2 () throws Exception
     {
-        Game myGame = new Game ("ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt");
-        Factory factory = new Factory();
+        Game myGame = new Game ();
+        Factory factory = new Factory("ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt");
         Command command = (Command)factory.create("INIT", myGame);
     }
 
     @Test (expected = InstantiationException.class)
     public void testFactoryException3 () throws Exception
     {
-        Game myGame = new Game ("ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt");
-        Factory factory = new Factory();
+        Game myGame = new Game ();
+        Factory factory = new Factory("ru/nsu/vakhrushev/LogoWorld/main/badconfig.txt");
         Command command = (Command)factory.create("MOVE", myGame);
     }
 }

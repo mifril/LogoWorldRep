@@ -17,14 +17,14 @@ import ru.nsu.vakhrushev.LogoWorld.main.Game;
  *  @see ru.nsu.vakhrushev.LogoWorld.commands.Command*/
 public class Teleport implements Command  {
 
-    static Logger logger = Logger.getLogger(Teleport.class.getName());
+    private final static Logger logger = Logger.getLogger(Teleport.class);
 
     /**Execute command TELEPORT.
      * @param arguments Arguments string.
      * @param myGame The Game model, for which we execute command.*/
     public void execute(String arguments, Game myGame)
     {
-        PropertyConfigurator.configure("logconfig.txt");
+ //       PropertyConfigurator.configure("logconfig.txt");
         logger.info("Execute command TELEPORT.");
 
         StringBuilder sb = new StringBuilder();

@@ -18,14 +18,14 @@ import ru.nsu.vakhrushev.LogoWorld.main.Mode;
  *  @see ru.nsu.vakhrushev.LogoWorld.commands.Command*/
 public class Ward implements Command  {
 
-    static Logger logger = Logger.getLogger(Ward.class.getName());
+    private final static Logger logger = Logger.getLogger(Ward.class);
 
     /**Execute command WARD.
      * @param arguments Arguments string.
      * @param myGame The Game model, for which we execute command.*/
     public void execute(String arguments, Game myGame)
     {
-        PropertyConfigurator.configure("logconfig.txt");
+//        PropertyConfigurator.configure("logconfig.txt");
         logger.info("Execute command WARD.");
 
         if (null != arguments)

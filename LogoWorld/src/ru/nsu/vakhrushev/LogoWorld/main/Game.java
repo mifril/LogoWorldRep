@@ -1,14 +1,10 @@
 package ru.nsu.vakhrushev.LogoWorld.main;
 
 import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 
-import java.io.IOException;
 import java.io.OutputStream;
 import java.io.PrintStream;
-import java.util.HashSet;
-import java.util.Properties;
-import java.util.Set;
+
 
 /**
  * Created with IntelliJ IDEA.
@@ -23,8 +19,7 @@ import java.util.Set;
  * @author Vakhrushev Maxim*/
 public class Game {
 
-    static Logger logger = Logger.getLogger(Game.class.getName());
-
+    private final static Logger logger = Logger.getLogger(Game.class);
     /** Width of game field */
     private int width = 0;
     /** Height of game field */
@@ -37,26 +32,6 @@ public class Game {
     private Mode mode = Mode.DEFAULT;
     /** Game field. 'X' - current position, '.' - empty cell, '0' - drawed cell */
     private char field[][] = new char[height][width];
-    /** Properties with command classes names */
-    private Properties prop = new Properties ();
-
-    /**Standart constructor. Read property from file ru/nsu/vakhrushev/LogoWorld/main/config.txt
-     * @throws IOException*/
-    public Game () throws IOException
-    {
-        PropertyConfigurator.configure("logconfig.txt");
-        logger.info("Reading property from ru/nsu/vakhrushev/LogoWorld/main/config.txt.");
-        prop.load(ClassLoader.getSystemClassLoader().getResourceAsStream("ru/nsu/vakhrushev/LogoWorld/main/config.txt"));
-    }
-    /**Constructor
-     * @param fileName File with property
-     * @throws IOException*/
-    public Game (String fileName) throws IOException
-    {
-        PropertyConfigurator.configure("logconfig.txt");
-        logger.info("\"Reading property from " + fileName + ".");
-        prop.load(ClassLoader.getSystemClassLoader().getResourceAsStream(fileName));
-    }
 
     /** Get game width
      * @return Game width */
@@ -130,14 +105,6 @@ public class Game {
 //        field[y][x] = 'X';
    }
 
-    /** Get class name from property.
-     * @param commandName Command name which we are looking for in property
-     * @return Class name or "Unknown command"*/
-    public String getFromProperty (String commandName)
-    {
-        return prop.getProperty(commandName, "Unknown command");
-    }
-
     /** Print game field
      * @param outStream Output stream*/
     public void print(OutputStream outStream)
@@ -156,14 +123,14 @@ public class Game {
     /** Move from current position
      * @param steps Number of steps
      * @param direction Direction of moving (L/R/D/U) */
-    public void move (int steps, String direction)
+    public void move (int steps, Direction direction)
     {
         if (mode == Mode.DRAW)
         {
             int tmp_steps = steps;
             switch (direction)
             {
-                case "L":
+                case L:
                     field[y][x] = '0';
                     while (0 != tmp_steps)
                     {
@@ -179,7 +146,7 @@ public class Game {
                     }
                     break;
 
-                case "R":
+                case R:
                     field[y][x] = '0';
                     while (0 != tmp_steps)
                     {
@@ -190,7 +157,7 @@ public class Game {
                     }
                     break;
 
-                case "U":
+                case U:
                     field[y][x] = '0';
                     while (0 != tmp_steps)
                     {
@@ -206,7 +173,7 @@ public class Game {
                     }
                     break;
 
-                case "D":
+                case D:
                     field[y][x] = '0';
                     while (0 != tmp_steps)
                     {
@@ -226,7 +193,7 @@ public class Game {
         {
             switch (direction)
             {
-                case "L":
+                case L:
                     field[y][x] = '.';
 
                     int tmpX = x - steps;
@@ -237,12 +204,12 @@ public class Game {
                     x = tmpX;
                     field[y][x] = 'X';
                     break;
-                case "R":
+                case R:
                     field[y][x] = '.';
                     x = (x + steps) % width;
                     field[y][x] = 'X';
                     break;
-                case "U":
+                case U:
                     field[y][x] = '.';
 
                     int tmpY = y - steps;
@@ -253,10 +220,13 @@ public class Game {
                     y = tmpY;
                     field[y][x] = 'X';
                     break;
-                case "D":
+                case D:
                     field[y][x] = '.';
                     y = (y + steps) % height;
                     field[y][x] = 'X';
+                    break;
+                default:
+                    System.out.println("Incorrect arguments in command MOVE. Incorrect direction");
                     break;
             }
         }
