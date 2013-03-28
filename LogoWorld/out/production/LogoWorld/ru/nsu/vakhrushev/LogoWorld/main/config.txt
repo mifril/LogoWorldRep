@@ -1,7 +1,0 @@
-INIT=ru.nsu.vakhrushev.LogoWorld.commands.Init
-DRAW=ru.nsu.vakhrushev.LogoWorld.commands.Draw
-MOVE=ru.nsu.vakhrushev.LogoWorld.commands.Move
-TELEPORT=ru.nsu.vakhrushev.LogoWorld.commands.Teleport
-WARD=ru.nsu.vakhrushev.LogoWorld.commands.Ward
-
-
